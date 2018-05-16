@@ -5,7 +5,6 @@
     <classes>
       <class name="com.vtiger.leadTest.LeadTest">
         <methods>
-          <include name="configLogout"/>
           <include name="createLeadTest"/>
           <include name="configCloseBrowser"/>
           <include name="configLogin"/>
