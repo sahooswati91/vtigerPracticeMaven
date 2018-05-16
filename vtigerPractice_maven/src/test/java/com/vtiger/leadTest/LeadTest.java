@@ -17,7 +17,7 @@ public class LeadTest extends Baseclass {
 	@Test
 	public void createLeadTest() throws Throwable
 	{
-		Reporter.log("changed something",true);
+		Reporter.log("changed something now",true);
 		Reporter.log("=======create lead with name and company========",true);
 //		get data from excelsheet
 	    Reporter.log("=====step2:get data from excel sheet=====",true);
